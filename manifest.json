@@ -1,0 +1,10 @@
+{
+  "name": "Crystal Seeker",
+  "description": "Base Level Extension",
+  "version": "1.00.03",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "scratch.html",
+    "default_icon": "Crystal.png"
+  }
+}
